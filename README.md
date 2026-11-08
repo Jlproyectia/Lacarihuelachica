@@ -1,5 +1,13 @@
 # vinext-starter
 
+## Vercel deployment
+
+Import this repository with its root directory set to `.`. The checked-in
+`vercel.json` selects Next.js, runs `npm run build:vercel`, and uses `.next`.
+This generates the routes manifest required by Vercel. Do not use the Sites
+build (`npm run build`) for Vercel: it generates a Cloudflare Worker in `dist`.
+The existing Sites development and publishing commands remain unchanged.
+
 A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.
 
 ## Prerequisites
