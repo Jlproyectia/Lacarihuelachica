@@ -1,0 +1,22 @@
+/* Shared header geometry; loaded after page-specific styles. */
+.restaurant-shell[class] .site-header .header-actions{align-items:center}
+.restaurant-shell[class] .site-header .header-book{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:12px 20px;gap:16px;line-height:1.4;white-space:nowrap;align-self:center;margin:0}
+.restaurant-shell[class] .site-header .header-book svg{display:block;flex-shrink:0}
+.mobile-quick-actions{display:none}
+
+@media(max-width:767px){
+  .restaurant-shell{padding-top:calc(118px + env(safe-area-inset-top,0px))}
+  .restaurant-shell[class] .site-header{position:fixed;inset:0 0 auto;width:100%;height:auto;min-height:118px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px 16px;padding:calc(8px + env(safe-area-inset-top,0px)) 16px 12px;background:#082c40;color:#fcfbf8;border:0;border-bottom:1px solid #c6a86640;z-index:50}
+  .restaurant-shell[class] .site-header .logo{width:154px;max-width:100%;height:46px;display:flex;align-items:center;margin:0}
+  .restaurant-shell[class] .site-header .logo img{max-height:46px;object-fit:contain;filter:none;mix-blend-mode:normal;background:#fcfbf8}
+  .restaurant-shell[class] .site-header .header-actions{margin:0;gap:16px;color:#fcfbf8}
+  .restaurant-shell[class] .site-header .header-book{display:none}
+  .restaurant-shell[class] .site-header .mobile-menu{display:grid;width:40px;height:40px;border:1px solid #ffffff50;border-radius:0;place-items:center}
+  .restaurant-shell .mobile-quick-actions{grid-column:1/-1;display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  .mobile-quick-actions a,.mobile-quick-actions button{display:flex;align-items:center;justify-content:center;gap:12px;min-height:44px;padding:10px 12px;font:600 12px/1.4 var(--sans);white-space:nowrap;border:1px solid #c6a86680;color:#fcfbf8}
+  .mobile-quick-actions button{background:var(--color-accent);border-color:var(--color-accent);color:var(--color-on-accent)}
+  .mobile-quick-actions :focus-visible{outline:2px solid white;outline-offset:3px}
+  .restaurant-shell[class] .site-header .main-nav.is-open{inset:100% 0 auto;width:100%;max-height:calc(100dvh - 130px);overflow-y:auto;margin:0;padding:24px;background:#082c40;color:#fcfbf8;border:0;border-bottom:1px solid #c6a86660}
+  .restaurant-shell[class] .site-header .main-nav.is-open a{color:#fcfbf8}
+  html{scroll-padding-top:140px}
+}
