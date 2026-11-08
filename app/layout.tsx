@@ -13,3 +13,5 @@ export default function RootLayout({children}:Readonly<{children:React.ReactNode
 import './editorial-collage.css';
 
 import './design-system.css';
+
+import './venue-sliders.css';

@@ -677,5 +677,83 @@
     "name": "Cócteles al atardecer",
     "category": "editorial",
     "src": "/images/105.webp"
+  },
+  {
+    "id": 106,
+    "name": "El restaurante",
+    "category": "local",
+    "src": "/images/106.webp"
+  },
+  {
+    "id": 107,
+    "name": "El restaurante",
+    "category": "local",
+    "src": "/images/107.webp"
+  },
+  {
+    "id": 108,
+    "name": "El restaurante",
+    "category": "local",
+    "src": "/images/108.webp"
+  },
+  {
+    "id": 109,
+    "name": "El restaurante",
+    "category": "local",
+    "src": "/images/109.webp"
+  },
+  {
+    "id": 110,
+    "name": "Mejillones al vapor",
+    "category": "mariscos",
+    "src": "/images/110.webp"
+  },
+  {
+    "id": 111,
+    "name": "Conchas finas",
+    "category": "mariscos",
+    "src": "/images/111.webp"
+  },
+  {
+    "id": 112,
+    "name": "Bolos",
+    "category": "mariscos",
+    "src": "/images/112.webp"
+  },
+  {
+    "id": 113,
+    "name": "Gambas al ajillo",
+    "category": "mariscos",
+    "src": "/images/113.webp"
+  },
+  {
+    "id": 114,
+    "name": "Langostinos al Pil-Pil",
+    "category": "mariscos",
+    "src": "/images/114.webp"
+  },
+  {
+    "id": 115,
+    "name": "Gambas cocidas",
+    "category": "mariscos",
+    "src": "/images/115.webp"
+  },
+  {
+    "id": 116,
+    "name": "Mejillones a la marinera",
+    "category": "mariscos",
+    "src": "/images/116.webp"
+  },
+  {
+    "id": 117,
+    "name": "Vieira al Pil-Pil",
+    "category": "mariscos",
+    "src": "/images/117.webp"
+  },
+  {
+    "id": 118,
+    "name": "Gambas a la plancha",
+    "category": "mariscos",
+    "src": "/images/118.webp"
   }
 ]

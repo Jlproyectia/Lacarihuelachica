@@ -10,3 +10,9 @@ Mediterranean restaurant editorial identity. Product photography leads; navy, iv
 - Corners: photographic layouts and buttons are square. When a padded rounded container is necessary, outer radius 8px, padding 8px, inner radius max(0, outer minus padding).
 - Content: specific dishes, actual location and verified reviews. No filler badges, decorative coordinates or repeated category labels.
 - Motion: purposeful entrance, photo crossfade and gallery transitions. Respect reduced motion. Never hijack scrolling.
+
+## Gallery and menu update
+- Restaurant: three independent native scroll-snap galleries,7interior +4terrace +8food images. Mobile swipe, keyboard arrows, buttons, position counter and full-image dialog. No autoplay or scroll hijacking.
+- Menu:43 distinct category photographs, each loaded lazily with640/1600px responsive sources. Mobile category select replaces long category sidebar. General group headers show product compositions; no unrelated food in beverage menus.
+- Homepage seafood rail:25 actual menu preparations, distinct photos, one-item arrow navigation.
+- Reviews:5 verified entries only. Dynamic counter, arrow buttons, keyboard and touch navigation. FullGoogle dataset remains unavailable without authorised source access.
