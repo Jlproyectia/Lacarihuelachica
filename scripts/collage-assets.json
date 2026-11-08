@@ -1,0 +1,74 @@
+[
+  {
+    "id": 94,
+    "name": "El salón, a primera hora",
+    "category": "local",
+    "src": "/images/94.webp"
+  },
+  {
+    "id": 95,
+    "name": "Una mesa junto a la luz",
+    "category": "local",
+    "src": "/images/95.webp"
+  },
+  {
+    "id": 96,
+    "name": "Madera y reflejos",
+    "category": "local",
+    "src": "/images/96.webp"
+  },
+  {
+    "id": 97,
+    "name": "La sobremesa",
+    "category": "local",
+    "src": "/images/97.webp"
+  },
+  {
+    "id": 98,
+    "name": "La terraza abierta",
+    "category": "local",
+    "src": "/images/98.webp"
+  },
+  {
+    "id": 99,
+    "name": "Un rincón en la terraza",
+    "category": "local",
+    "src": "/images/99.webp"
+  },
+  {
+    "id": 100,
+    "name": "Luz de última hora",
+    "category": "local",
+    "src": "/images/100.webp"
+  },
+  {
+    "id": 101,
+    "name": "Nos vemos en Los Boliches",
+    "category": "local",
+    "src": "/images/101.webp"
+  },
+  {
+    "id": 102,
+    "name": "Langosta y mariscos",
+    "category": "editorial",
+    "src": "/images/102.webp"
+  },
+  {
+    "id": 103,
+    "name": "Bodega y bebidas",
+    "category": "editorial",
+    "src": "/images/103.webp"
+  },
+  {
+    "id": 104,
+    "name": "El momento dulce",
+    "category": "editorial",
+    "src": "/images/104.webp"
+  },
+  {
+    "id": 105,
+    "name": "Cócteles al atardecer",
+    "category": "editorial",
+    "src": "/images/105.webp"
+  }
+]

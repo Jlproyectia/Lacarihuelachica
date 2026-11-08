@@ -1,0 +1,681 @@
+[
+  {
+    "id": 1,
+    "name": "Arroz caldoso con bogavante",
+    "category": "arroces",
+    "subject": "brothy Spanish lobster rice in black shallow pan, lobster split with its claws",
+    "src": "/images/01.webp"
+  },
+  {
+    "id": 2,
+    "name": "Ostra francesa",
+    "category": "mariscos",
+    "subject": "six fresh French oysters in half shells on crushed ice with lemon in silver platter",
+    "src": "/images/02.webp"
+  },
+  {
+    "id": 3,
+    "name": "Caviar de Río Frío",
+    "category": "crudos",
+    "subject": "15 gram portion black sturgeon caviar in small unbranded open tin on crushed ice with mother of pearl spoon",
+    "src": "/images/03.webp"
+  },
+  {
+    "id": 4,
+    "name": "Carabineros",
+    "category": "mariscos",
+    "subject": "three magnificent scarlet carabinero prawns grilled whole, glossy olive oil and sea salt on white ceramic",
+    "src": "/images/04.webp"
+  },
+  {
+    "id": 5,
+    "name": "Langosta salvaje",
+    "category": "mariscos",
+    "subject": "whole spiny lobster split and grilled, white sweet flesh, beautiful red spiny shell, no claws",
+    "src": "/images/05.webp"
+  },
+  {
+    "id": 6,
+    "name": "Parrillada especial de mariscos",
+    "category": "mariscos",
+    "subject": "generous seafood grill platter for two, lobster, red prawns, langoustines and shellfish, authentic Spanish style",
+    "src": "/images/06.webp"
+  },
+  {
+    "id": 7,
+    "name": "Gambas de Garrucha",
+    "category": "mariscos",
+    "subject": "platter of whole red Garrucha prawns grilled with coarse salt, delicate long antennae",
+    "src": "/images/07.webp"
+  },
+  {
+    "id": 8,
+    "name": "Cigalas",
+    "category": "mariscos",
+    "subject": "four whole grilled langoustines neatly presented with lemon, pale pink shells and small claws",
+    "src": "/images/08.webp"
+  },
+  {
+    "id": 9,
+    "name": "Zamburiña",
+    "category": "mariscos",
+    "subject": "four grilled scallops in their natural small shells with olive oil and parsley",
+    "src": "/images/09.webp"
+  },
+  {
+    "id": 10,
+    "name": "Vieira gratinada",
+    "category": "mariscos",
+    "subject": "two large scallops gratinated in natural shells golden crust creamy center",
+    "src": "/images/10.webp"
+  },
+  {
+    "id": 11,
+    "name": "Navajas gallegas",
+    "category": "mariscos",
+    "subject": "Galician razor clams cooked in long open shells with parsley olive oil",
+    "src": "/images/11.webp"
+  },
+  {
+    "id": 12,
+    "name": "Coquinas al aceite de oliva",
+    "category": "mariscos",
+    "subject": "small Spanish wedge clams open in a shallow dish, delicate garlic parsley olive oil sauce",
+    "src": "/images/12.webp"
+  },
+  {
+    "id": 13,
+    "name": "Zarzuela de mariscos",
+    "category": "mariscos",
+    "subject": "traditional seafood zarzuela stew with clams mussels prawns and lobster in warm rustic casserole",
+    "src": "/images/13.webp"
+  },
+  {
+    "id": 14,
+    "name": "Arroz caldoso con carabineros",
+    "category": "arroces",
+    "subject": "brothy rice with whole scarlet carabinero prawns in black pan, intensely rich red broth",
+    "src": "/images/14.webp"
+  },
+  {
+    "id": 19,
+    "name": "Tartar de atún",
+    "category": "crudos",
+    "subject": "fresh finely diced ruby red tuna tartare shaped naturally on white plate with restrained herb garnish",
+    "src": "/images/19.webp"
+  },
+  {
+    "id": 20,
+    "name": "Carpaccio de ventresca de atún",
+    "category": "crudos",
+    "subject": "thin marbled raw tuna belly carpaccio spread elegantly on ivory plate, extra virgin olive oil",
+    "src": "/images/20.webp"
+  },
+  {
+    "id": 21,
+    "name": "Lomo de atún rojo de almadraba",
+    "category": "lonja",
+    "subject": "thick seared almadraba bluefin tuna loin sliced showing rose ruby center, elegant white plate",
+    "src": "/images/21.webp"
+  },
+  {
+    "id": 22,
+    "name": "Ventresca de atún rojo de almadraba",
+    "category": "lonja",
+    "subject": "grilled bluefin tuna belly, beautiful marbling, moist flakes, crisp edges and olive oil",
+    "src": "/images/22.webp"
+  },
+  {
+    "id": 23,
+    "name": "Rodaballo",
+    "category": "lonja",
+    "subject": "whole roasted turbot on large oval white platter, golden skin, lemon and restrained garnish",
+    "src": "/images/23.webp"
+  },
+  {
+    "id": 24,
+    "name": "Lubina a la sal",
+    "category": "lonja",
+    "subject": "whole sea bass in cracked salt crust on silver serving platter showing moist white flesh, authentic salt baked preparation",
+    "src": "/images/24.webp"
+  },
+  {
+    "id": 25,
+    "name": "Besugo al horno",
+    "category": "lonja",
+    "subject": "whole oven roasted sea bream with beautiful golden skin on oval porcelain with thin potatoes",
+    "src": "/images/25.webp"
+  },
+  {
+    "id": 26,
+    "name": "Lenguado a la Méuniere",
+    "category": "pescados",
+    "subject": "whole sole meuniere golden brown butter lemon and parsley, sophisticated classic fish plating",
+    "src": "/images/26.webp"
+  },
+  {
+    "id": 27,
+    "name": "Lasaña de bogavante",
+    "category": "pescados",
+    "subject": "rich lobster lasagna portion with delicate pasta layers lobster meat creamy gratin on porcelain",
+    "src": "/images/27.webp"
+  },
+  {
+    "id": 28,
+    "name": "Tentáculo de pulpo a la parrilla",
+    "category": "entradas",
+    "subject": "one large elegantly curled grilled octopus tentacle with charred suckers and olive oil, natural serving",
+    "src": "/images/28.webp"
+  },
+  {
+    "id": 29,
+    "name": "Jamón ibérico “Joselito” Gran Reserva",
+    "category": "entradas",
+    "subject": "fine translucent slices of premium Iberian ham arranged by hand in a loose circle on ceramic, marbled fat shining",
+    "src": "/images/29.webp"
+  },
+  {
+    "id": 30,
+    "name": "Flor de alcachofa con puré de patatas y rabo de toro desmigado",
+    "category": "entradas",
+    "subject": "golden artichoke flower with potato puree and rich shredded braised oxtail, white ceramic plate",
+    "src": "/images/30.webp"
+  },
+  {
+    "id": 31,
+    "name": "Solomillo de ternera con medallón de foie y salsa de setas",
+    "category": "carnes",
+    "subject": "grilled beef tenderloin topped with small seared foie gras medallion and mushroom sauce",
+    "src": "/images/31.webp"
+  },
+  {
+    "id": 32,
+    "name": "Entrecot de lomo alto de Angus",
+    "category": "carnes",
+    "subject": "thick grilled Angus ribeye sliced showing medium rosy interior, sea salt, rosemary subtle",
+    "src": "/images/32.webp"
+  },
+  {
+    "id": 33,
+    "name": "Presa ibérica “Joselito” a la parrilla",
+    "category": "carnes",
+    "subject": "grilled Iberian pork presa sliced thickly with juicy interior and charred edges on elegant plate",
+    "src": "/images/33.webp"
+  },
+  {
+    "id": 34,
+    "name": "Paletilla de cordero lechal",
+    "category": "carnes",
+    "subject": "slow roasted suckling lamb shoulder on bone with golden skin, pan juices and potatoes",
+    "src": "/images/34.webp"
+  },
+  {
+    "id": 35,
+    "name": "Tarta de queso",
+    "category": "postres",
+    "subject": "elegant single slice of creamy Spanish cheesecake, burnished top, porcelain plate, natural rustic detail",
+    "src": "/images/35.webp"
+  },
+  {
+    "id": 36,
+    "name": "Mousse de pistachos",
+    "category": "postres",
+    "subject": "silky pistachio mousse in elegant small glass dessert dish topped with chopped pistachios",
+    "src": "/images/36.webp"
+  },
+  {
+    "id": 37,
+    "name": "El salón",
+    "category": "local",
+    "subject": "wide interior",
+    "src": "/images/37.webp"
+  },
+  {
+    "id": 38,
+    "name": "La terraza",
+    "category": "local",
+    "subject": "facade and terrace",
+    "src": "/images/38.webp"
+  },
+  {
+    "id": 39,
+    "name": "La mesa, preparada",
+    "category": "local",
+    "subject": "close shot of actual white clothed round table and crystal glassware, wood fish wall blurred behind",
+    "src": "/images/39.webp"
+  },
+  {
+    "id": 40,
+    "name": "El pez de La Carihuela",
+    "category": "local",
+    "subject": "architectural close photograph of the actual segmented bronze fish sculpture against vertical honey wood slats",
+    "src": "/images/40.webp"
+  },
+  {
+    "id": 41,
+    "name": "Luz de sobremesa",
+    "category": "local",
+    "subject": "interior from near the glass entrance looking toward wood wall and white chairs in soft afternoon sun",
+    "src": "/images/41.webp"
+  },
+  {
+    "id": 42,
+    "name": "Detalles que acogen",
+    "category": "local",
+    "subject": "close-up of white upholstered chair and white linen table and faceted water glass seen in reference, wood wall beyond",
+    "src": "/images/42.webp"
+  },
+  {
+    "id": 43,
+    "name": "Una terraza en Los Boliches",
+    "category": "local",
+    "subject": "closer view of existing facade white planters globe lights and white terrace tables, keep facade signage",
+    "src": "/images/43.webp"
+  },
+  {
+    "id": 44,
+    "name": "Bienvenidos",
+    "category": "local",
+    "subject": "architectural detail of actual La Carihuela Chica facade signage with existing awning and balcony",
+    "src": "/images/44.webp"
+  },
+  {
+    "id": 45,
+    "name": "Al caer la tarde",
+    "category": "local",
+    "subject": "same exact terrace and white globe lights at blue hour, warm indoor lighting, no changed architecture",
+    "src": "/images/45.webp"
+  },
+  {
+    "id": 54,
+    "name": "Carabineros a la plancha",
+    "category": "mariscos",
+    "subject": "three magnificent whole scarlet carabineros, coarse salt, long oval ivory platter, overhead architectural composition",
+    "src": "/images/54.webp",
+    "placement": "home"
+  },
+  {
+    "id": 55,
+    "name": "Langosta salvaje",
+    "category": "mariscos",
+    "subject": "split grilled spiny lobster with no claws, pearly tail meat in spiny shell, restrained olive oil, side-lit close-up on white porcelain",
+    "src": "/images/55.webp",
+    "placement": "home"
+  },
+  {
+    "id": 56,
+    "name": "Cigalas",
+    "category": "mariscos",
+    "subject": "five whole langoustines with slender claws, lightly grilled, on pale ceramic, top-down diagonal arrangement",
+    "src": "/images/56.webp",
+    "placement": "home"
+  },
+  {
+    "id": 57,
+    "name": "Caviar de Río Frío",
+    "category": "crudos",
+    "subject": "small portion glossy black sturgeon caviar in unbranded tin over crushed ice, mother-of-pearl spoon, intimate macro on navy cloth",
+    "src": "/images/57.webp",
+    "placement": "home"
+  },
+  {
+    "id": 58,
+    "name": "Ostra francesa",
+    "category": "mariscos",
+    "subject": "six French oysters opened on ice in restrained silver platter, a lemon half, wide overhead perspective",
+    "src": "/images/58.webp",
+    "placement": "home"
+  },
+  {
+    "id": 59,
+    "name": "Lomo de atún rojo de almadraba",
+    "category": "pescados",
+    "subject": "thick grilled bluefin tuna loin sliced to reveal ruby interior, ivory plate, low side angle with fine char texture",
+    "src": "/images/59.webp",
+    "placement": "home"
+  },
+  {
+    "id": 60,
+    "name": "Arroz caldoso con bogavante",
+    "category": "arroces",
+    "subject": "Spanish brothy lobster rice in shallow black pan, split clawed lobster, natural steam, overhead wide editorial scene",
+    "src": "/images/60.webp",
+    "placement": "home"
+  },
+  {
+    "id": 61,
+    "name": "Ventresca de atún rojo de almadraba",
+    "category": "pescados",
+    "subject": "grilled fatty bluefin tuna belly, natural marbling and caramelized surface, minimalist porcelain, macro oblique framing",
+    "src": "/images/61.webp",
+    "placement": "home"
+  },
+  {
+    "id": 62,
+    "name": "Parrillada especial de mariscos",
+    "category": "mariscos",
+    "subject": "exceptional mixed grilled seafood platter with clawed lobster, langoustines and large red prawns, complete platter on linen, broad overhead composition",
+    "src": "/images/62.webp",
+    "placement": "home"
+  },
+  {
+    "id": 63,
+    "name": "Vieira gratinada o al Pil-Pil",
+    "category": "mariscos",
+    "subject": "three scallops gratinated in their natural shells, subtle golden crust, black stone platter, low close angle",
+    "src": "/images/63.webp",
+    "placement": "home"
+  },
+  {
+    "id": 64,
+    "name": "Zamburiña",
+    "category": "mariscos",
+    "subject": "small scallops in fan shells with garlic parsley olive oil, arranged along oval ceramic plate, near overhead",
+    "src": "/images/64.webp",
+    "placement": "home"
+  },
+  {
+    "id": 65,
+    "name": "Navajas gallegas",
+    "category": "mariscos",
+    "subject": "long Galician razor clams grilled in their shells, garlic parsley and olive oil, diagonal close-up",
+    "src": "/images/65.webp",
+    "placement": "home"
+  },
+  {
+    "id": 66,
+    "name": "Carpaccio de ventresca de atún",
+    "category": "crudos",
+    "subject": "thin raw bluefin tuna belly carpaccio arranged in broad delicate folds, restrained olive oil, overhead round porcelain",
+    "src": "/images/66.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 67,
+    "name": "Tartar de atún",
+    "category": "crudos",
+    "subject": "bluefin tuna tartare hand diced into clean loose mound, restrained seasoning, ivory plate, tight side profile",
+    "src": "/images/67.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 68,
+    "name": "Bogavantes",
+    "category": "mariscos",
+    "subject": "cooked European clawed lobster split lengthwise, large claws intact, ivory oval platter, warm backlight, generous negative space",
+    "src": "/images/68.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 69,
+    "name": "Arroz caldoso con carabineros",
+    "category": "arroces",
+    "subject": "brothy Spanish rice crowned with three scarlet carabineros, shallow pan on cream linen, low cinematic angle",
+    "src": "/images/69.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 70,
+    "name": "Langosta salvaje",
+    "category": "mariscos",
+    "subject": "cooked spiny lobster tail in shell, no claws, pearl meat brushed with olive oil, macro detail filling lower frame",
+    "src": "/images/70.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 71,
+    "name": "Ostra francesa",
+    "category": "mariscos",
+    "subject": "single freshly opened oyster with clear liquor and nacre shell, on ice, extreme tasteful close-up",
+    "src": "/images/71.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 72,
+    "name": "Cigalas",
+    "category": "mariscos",
+    "subject": "two large split grilled langoustines displaying delicate flesh and slender claws, long ivory plate, low diagonal table view",
+    "src": "/images/72.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 73,
+    "name": "Caviar de Río Frío",
+    "category": "crudos",
+    "subject": "mother-of-pearl spoon holding black caviar above small open unbranded tin, spoon rests on tin no hands, soft side light, precise macro",
+    "src": "/images/73.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 74,
+    "name": "Rodaballo",
+    "category": "pescados",
+    "subject": "whole roasted turbot presented on large white oval platter with roast potatoes, golden skin, overhead wide",
+    "src": "/images/74.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 75,
+    "name": "Lenguado a la Méuniere",
+    "category": "pescados",
+    "subject": "whole cooked Dover sole in brown butter lemon sauce, parsley, elegant elongated plate, close oblique perspective",
+    "src": "/images/75.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 76,
+    "name": "Lasaña de bogavante",
+    "category": "pescados",
+    "subject": "refined lobster lasagna cut portion with lobster meat pasta layers visible and light seafood sauce, side profile on porcelain",
+    "src": "/images/76.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 77,
+    "name": "Solomillo de ternera con medallón de foie y salsa de setas",
+    "category": "carnes",
+    "subject": "beef tenderloin topped with seared foie gras medallion and mushroom sauce, medium rare cut visible, close low view",
+    "src": "/images/77.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 78,
+    "name": "Entrecot de lomo alto de Angus",
+    "category": "carnes",
+    "subject": "thick grilled Angus ribeye with fine char, sliced end showing rosy meat, simple roasted potatoes, ivory platter top-down",
+    "src": "/images/78.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 79,
+    "name": "Presa ibérica «Joselito» a la parrilla",
+    "category": "carnes",
+    "subject": "grilled Iberian pork shoulder steak sliced with subtle char, roasted vegetables, pale ceramic, side-lit overhead",
+    "src": "/images/79.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 80,
+    "name": "Jamón ibérico «Joselito» Gran Reserva",
+    "category": "entradas",
+    "subject": "paper-thin Iberian ham marbled ruby and ivory arranged loosely on elegant round white plate, top-down on limestone",
+    "src": "/images/80.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 81,
+    "name": "Flor de alcachofa con puré de patatas y rabo de toro desmigado",
+    "category": "entradas",
+    "subject": "artichoke flower opened over olive oil mashed potatoes with shredded oxtail, refined white bowl, side close-up",
+    "src": "/images/81.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 82,
+    "name": "Paella de presa ibérica con flor de alcachofa y foie",
+    "category": "arroces",
+    "subject": "Spanish paella with Iberian pork artichokes and seared foie, black shallow pan, overhead warm daylight",
+    "src": "/images/82.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 83,
+    "name": "Paella de pescado salvaje",
+    "category": "arroces",
+    "subject": "Spanish rice paella with large pieces wild white fish and restrained vegetables, shallow black pan, low angle",
+    "src": "/images/83.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 84,
+    "name": "Paella de ventresca de atún, habitas y ajetes tiernos",
+    "category": "arroces",
+    "subject": "Spanish paella with bluefin tuna belly broad beans and young garlic, top-down close rice detail",
+    "src": "/images/84.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 85,
+    "name": "Parrillada de mariscos",
+    "category": "mariscos",
+    "subject": "grilled king prawns langoustines and shellfish with natural char, clean oval platter, low hero composition",
+    "src": "/images/85.webp",
+    "placement": "menu"
+  },
+  {
+    "id": 86,
+    "name": "Buey de mar",
+    "category": "mariscos",
+    "subject": "large cooked brown crab opened and professionally presented with claws and shell, ivory platter overhead",
+    "src": "/images/86.webp",
+    "placement": "experience"
+  },
+  {
+    "id": 87,
+    "name": "Almejas salteadas",
+    "category": "mariscos",
+    "subject": "plump clams open shells in garlic olive oil sauce, white shallow bowl, extreme close view",
+    "src": "/images/87.webp",
+    "placement": "experience"
+  },
+  {
+    "id": 88,
+    "name": "Coquinas al aceite de oliva",
+    "category": "mariscos",
+    "subject": "small coquina wedge clams sauteed in olive oil garlic, pale plate, top-down fine texture",
+    "src": "/images/88.webp",
+    "placement": "experience"
+  },
+  {
+    "id": 89,
+    "name": "Lomo de atún rojo de almadraba",
+    "category": "pescados",
+    "subject": "single thick seared bluefin tuna loin with crisp edges and ruby centre, quiet broad porcelain setting, overhead with empty space",
+    "src": "/images/89.webp",
+    "placement": "experience"
+  },
+  {
+    "id": 90,
+    "name": "Arroz caldoso con bogavante",
+    "category": "arroces",
+    "subject": "individual white shallow bowl of brothy lobster rice with a lobster claw and tail meat, tight side view, no large pan",
+    "src": "/images/90.webp",
+    "placement": "reviews"
+  },
+  {
+    "id": 91,
+    "name": "Carabineros",
+    "category": "mariscos",
+    "subject": "two cooked scarlet carabinero heads and bodies detailed in side profile on oval cream plate, exquisite realistic shell texture",
+    "src": "/images/91.webp",
+    "placement": "reviews"
+  },
+  {
+    "id": 92,
+    "name": "Vieira gratinada o al Pil-Pil",
+    "category": "mariscos",
+    "subject": "scallop in natural shell with warm garlic chilli olive oil pil pil, macro shot, navy linen",
+    "src": "/images/92.webp",
+    "placement": "contact"
+  },
+  {
+    "id": 93,
+    "name": "Cigalas",
+    "category": "mariscos",
+    "subject": "large langoustine split in shell with pearly meat and delicate char, close detail beside a lemon wedge, ivory plate",
+    "src": "/images/93.webp",
+    "placement": "contact"
+  },
+  {
+    "id": 94,
+    "name": "El salón, a primera hora",
+    "category": "local",
+    "src": "/images/94.webp"
+  },
+  {
+    "id": 95,
+    "name": "Una mesa junto a la luz",
+    "category": "local",
+    "src": "/images/95.webp"
+  },
+  {
+    "id": 96,
+    "name": "Madera y reflejos",
+    "category": "local",
+    "src": "/images/96.webp"
+  },
+  {
+    "id": 97,
+    "name": "La sobremesa",
+    "category": "local",
+    "src": "/images/97.webp"
+  },
+  {
+    "id": 98,
+    "name": "La terraza abierta",
+    "category": "local",
+    "src": "/images/98.webp"
+  },
+  {
+    "id": 99,
+    "name": "Un rincón en la terraza",
+    "category": "local",
+    "src": "/images/99.webp"
+  },
+  {
+    "id": 100,
+    "name": "Luz de última hora",
+    "category": "local",
+    "src": "/images/100.webp"
+  },
+  {
+    "id": 101,
+    "name": "Nos vemos en Los Boliches",
+    "category": "local",
+    "src": "/images/101.webp"
+  },
+  {
+    "id": 102,
+    "name": "Langosta y mariscos",
+    "category": "editorial",
+    "src": "/images/102.webp"
+  },
+  {
+    "id": 103,
+    "name": "Bodega y bebidas",
+    "category": "editorial",
+    "src": "/images/103.webp"
+  },
+  {
+    "id": 104,
+    "name": "El momento dulce",
+    "category": "editorial",
+    "src": "/images/104.webp"
+  },
+  {
+    "id": 105,
+    "name": "Cócteles al atardecer",
+    "category": "editorial",
+    "src": "/images/105.webp"
+  }
+]

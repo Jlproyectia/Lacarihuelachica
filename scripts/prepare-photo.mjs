@@ -1,0 +1,13 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import sharp from 'sharp';
+const [id,input]=process.argv.slice(2);
+if(!/^\d{2,3}$/.test(id)||!input) throw new Error('Expected numeric id and input path');
+for(const dir of ['public/originals','public/images','public/4k']) await fs.mkdir(dir,{recursive:true});
+const original=path.resolve(`public/originals/${id}.png`);
+if(path.resolve(input)!==original) await fs.copyFile(input,original);
+const meta=await sharp(original).metadata();
+await sharp(original).resize({width:1600,withoutEnlargement:true}).webp({quality:86}).toFile(`public/images/${id}.webp`);
+await sharp(original).resize({width:640,withoutEnlargement:true}).webp({quality:80}).toFile(`public/images/${id}-small.webp`);
+await sharp(original).resize(3840,2160,{fit:'cover',kernel:'lanczos3'}).jpeg({quality:95,mozjpeg:true}).toFile(`public/4k/${id}.jpg`);
+console.log(JSON.stringify({id,originalWidth:meta.width,originalHeight:meta.height,exportWidth:3840,exportHeight:2160,upscaled:meta.width<3840}));

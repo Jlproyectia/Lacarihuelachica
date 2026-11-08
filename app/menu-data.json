@@ -1,0 +1,3820 @@
+{
+  "restaurant": "La Carihuela Chica",
+  "currency": "EUR",
+  "verifiedAt": "2026-11-08",
+  "sources": {
+    "general": "https://lacarihuelachica.com/wp-content/uploads/Carta-menu-2026-todos-los-idiomas-1-2.pdf",
+    "postres": "https://lacarihuelachica.com/wp-content/uploads/Carta-de-postres-2026-1.pdf",
+    "vinos": "https://lacarihuelachica.com/wp-content/uploads/Carta-de-Vinos-2026.pdf",
+    "cocteles": "https://lacarihuelachica.com/wp-content/uploads/Carta-cocteles-1-1.pdf"
+  },
+  "notes": [
+    "Transcripción visual de las cartas oficiales. Los precios sujetos a peso se indican por 100 g. No se han inferido alérgenos.",
+    "La carta general contiene 128 platos numerados en 8 páginas españolas/inglesas; las restantes páginas repiten el contenido en otros idiomas.",
+    "IVA incluido consta en las cartas de postres y vinos."
+  ],
+  "categories": [
+    {
+      "id": "entradas",
+      "name": "Entradas",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Jamón ibérico “Joselito” Gran Reserva",
+          "price": 32.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Queso manchego",
+          "price": 19.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Tabla de anchoas del Cantábrico Selección Gourmet",
+          "price": 30.0,
+          "unit": "",
+          "note": "12–14 unidades",
+          "sourcePage": 1
+        },
+        {
+          "name": "Boquerones en vinagre",
+          "price": 16.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Salpicón de mariscos",
+          "price": 18.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Salpicón de pulpo",
+          "price": 17.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Aguacate con langostinos",
+          "price": 16.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Aguacate con salmón ahumado y vinagreta de eneldo",
+          "price": 19.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Cóctel de langostinos",
+          "price": 15.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Guacamole con gambitas de cristal",
+          "price": 19.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Empanadillas japonesas de gambas",
+          "price": 18.0,
+          "unit": "",
+          "note": "6 unidades",
+          "sourcePage": 1
+        },
+        {
+          "name": "Langostinos en tempura",
+          "price": 18.0,
+          "unit": "",
+          "note": "6 unidades",
+          "sourcePage": 1
+        },
+        {
+          "name": "Pulpo a la gallega",
+          "price": 25.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Tentáculo de pulpo a la parrilla",
+          "price": 27.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Croquetas de langosta y gambas",
+          "price": 16.5,
+          "unit": "",
+          "note": "8 unidades",
+          "sourcePage": 1
+        },
+        {
+          "name": "Tortillitas de camarones",
+          "price": 15.5,
+          "unit": "",
+          "note": "6 unidades",
+          "sourcePage": 1
+        },
+        {
+          "name": "Berenjenas fritas con miel de caña",
+          "price": 13.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Flor de alcachofa con puré de patatas y rabo de toro desmigado",
+          "price": 28.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Tacos del Pescador con mayonesa de ají amarillo",
+          "price": 25.0,
+          "unit": "",
+          "note": "4 unidades",
+          "sourcePage": 1
+        }
+      ]
+    },
+    {
+      "id": "crudos",
+      "name": "Crudos",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Tartar de atún",
+          "price": 29.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Dados de atún con huevo a 65° e hilos de patatas",
+          "price": 29.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Carpaccio de ventresca de atún",
+          "price": 22.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Nigiri de atún",
+          "price": 9.0,
+          "unit": "",
+          "note": "2 piezas. A elegir: frío o caliente",
+          "sourcePage": 1
+        },
+        {
+          "name": "Nigiri de salmón",
+          "price": 8.0,
+          "unit": "",
+          "note": "2 piezas. A elegir: frío o caliente",
+          "sourcePage": 1
+        },
+        {
+          "name": "Nigiri de pulpo",
+          "price": 8.0,
+          "unit": "",
+          "note": "2 piezas. Caliente",
+          "sourcePage": 1
+        },
+        {
+          "name": "Caviar de Río Frío",
+          "price": 55.0,
+          "unit": "",
+          "note": "15 g",
+          "sourcePage": 1
+        }
+      ]
+    },
+    {
+      "id": "ensaladas",
+      "name": "Ensaladas",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Ensalada mixta",
+          "price": 13.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        },
+        {
+          "name": "Ensalada Carihuela Chica",
+          "price": 16.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        },
+        {
+          "name": "Ensalada tropical",
+          "price": 17.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        },
+        {
+          "name": "Ensaladilla rusa con ventresca de atún",
+          "price": 16.0,
+          "unit": "",
+          "note": "Opcional: con huevo a 65°",
+          "sourcePage": 2
+        },
+        {
+          "name": "Ensalada César",
+          "price": 16.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        },
+        {
+          "name": "Ensalada de pimientos asados",
+          "price": 13.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        },
+        {
+          "name": "Tartar de aguacate con caviar",
+          "price": 16.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        },
+        {
+          "name": "Tomate de temporada con ventresca de atún y albahaca",
+          "price": 19.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "id": "sopas",
+      "name": "Sopas y cremas",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Salmorejo con ventresca de atún",
+          "price": 12.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        },
+        {
+          "name": "Ajoblanco con piñones y manzanas",
+          "price": 14.5,
+          "unit": "",
+          "note": "En temporada",
+          "sourcePage": 2
+        },
+        {
+          "name": "Gazpacho andaluz",
+          "price": 9.5,
+          "unit": "",
+          "note": "En temporada",
+          "sourcePage": 2
+        },
+        {
+          "name": "Sopa de mariscos",
+          "price": 14.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        },
+        {
+          "name": "Crema de langosta",
+          "price": 14.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        },
+        {
+          "name": "Crema de calabaza con picadillo de langostinos y curry",
+          "price": 13.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        },
+        {
+          "name": "Judiones de la granja con almejas de carril",
+          "price": 23.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 2
+        },
+        {
+          "name": "Gazpachuelo",
+          "price": 18.0,
+          "unit": "",
+          "note": "Precio por persona. Mínimo 2 personas",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "id": "pescaitos",
+      "name": "Pescaítos",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Boquerones malagueños",
+          "price": 15.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 3
+        },
+        {
+          "name": "Boquerones al limón",
+          "price": 16.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 3
+        },
+        {
+          "name": "Salmonetitos fritos",
+          "price": 18.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 3
+        },
+        {
+          "name": "Calamaritos fritos",
+          "price": 21.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 3
+        },
+        {
+          "name": "Calamares fritos",
+          "price": 18.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 3
+        },
+        {
+          "name": "Fritura malagueña",
+          "price": 27.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 3
+        },
+        {
+          "name": "Rosada en adobo",
+          "price": 16.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 3
+        },
+        {
+          "name": "Rosada frita",
+          "price": 19.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 3
+        },
+        {
+          "name": "Rosada a la plancha",
+          "price": 19.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 3
+        },
+        {
+          "name": "Gambitas de cristal",
+          "price": 17.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 3
+        }
+      ]
+    },
+    {
+      "id": "pescados",
+      "name": "Pescados",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Rape a la plancha",
+          "price": 29.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Rape a la marinera",
+          "price": 29.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Brocheta de rape con langostinos",
+          "price": 32.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Merluza a la plancha o a la bilbaína",
+          "price": 28.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Cogote de merluza a la bilbaína",
+          "price": 35.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Lenguado a la plancha",
+          "price": 30.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Lenguado a la Méuniere",
+          "price": 30.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Filete de lenguado a la Carihuela Chica",
+          "price": 30.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Pez espada a la plancha",
+          "price": 26.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Bacalao a la plancha",
+          "price": 28.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Bacalao al Pil-Pil",
+          "price": 28.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Salmón a la plancha",
+          "price": 23.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Salmón al eneldo o a la pimienta verde",
+          "price": 24.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Lomo de pescado salvaje con curry tailandés y arroz en tempura",
+          "price": 32.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Creppe de lubina y marisco con queso de cabra",
+          "price": 26.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Lubina Thai",
+          "price": 27.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Lasaña de bogavante",
+          "price": 27.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Canelón de atún con bechamel de coco y curry",
+          "price": 27.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Brocheta de atún con crujiente de arroz japonés y aguacate soasado",
+          "price": 30.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        }
+      ]
+    },
+    {
+      "id": "lonja",
+      "name": "Especialidades de la casa · Pescados",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Dorada",
+          "price": 6.7,
+          "unit": "100 g",
+          "note": "Sal, horno, plancha y carbón",
+          "sourcePage": 5
+        },
+        {
+          "name": "Lubina",
+          "price": 6.7,
+          "unit": "100 g",
+          "note": "Sal, horno, plancha y carbón",
+          "sourcePage": 5
+        },
+        {
+          "name": "Besugo",
+          "price": 8.5,
+          "unit": "100 g",
+          "note": "Sal, horno, plancha y carbón",
+          "sourcePage": 5
+        },
+        {
+          "name": "Pargo",
+          "price": 7.9,
+          "unit": "100 g",
+          "note": "Sal, horno, plancha y carbón",
+          "sourcePage": 5
+        },
+        {
+          "name": "Urta",
+          "price": 7.9,
+          "unit": "100 g",
+          "note": "Sal, horno, plancha y carbón",
+          "sourcePage": 5
+        },
+        {
+          "name": "Mero",
+          "price": 7.9,
+          "unit": "100 g",
+          "note": "Sal, horno, plancha y carbón",
+          "sourcePage": 5
+        },
+        {
+          "name": "Rodaballo",
+          "price": 8.5,
+          "unit": "100 g",
+          "note": "Horno, plancha y carbón",
+          "sourcePage": 5
+        },
+        {
+          "name": "Gallineta",
+          "price": 7.5,
+          "unit": "100 g",
+          "note": "Frita o plancha",
+          "sourcePage": 5
+        },
+        {
+          "name": "Salmonete",
+          "price": 8.5,
+          "unit": "100 g",
+          "note": "Plancha y carbón",
+          "sourcePage": 5
+        },
+        {
+          "name": "Lenguado",
+          "price": 7.9,
+          "unit": "100 g",
+          "note": "Plancha y carbón",
+          "sourcePage": 5
+        },
+        {
+          "name": "Rapecito",
+          "price": 7.5,
+          "unit": "100 g",
+          "note": "Horno, frito o plancha",
+          "sourcePage": 5
+        },
+        {
+          "name": "Calamar",
+          "price": 7.5,
+          "unit": "100 g",
+          "note": "Plancha o frito",
+          "sourcePage": 5
+        },
+        {
+          "name": "Lomo de atún rojo de almadraba",
+          "price": 10.0,
+          "unit": "100 g",
+          "note": "Horno, plancha y carbón",
+          "sourcePage": 5
+        },
+        {
+          "name": "Ventresca de atún rojo de almadraba",
+          "price": 10.0,
+          "unit": "100 g",
+          "note": "Horno, plancha y carbón",
+          "sourcePage": 5
+        }
+      ]
+    },
+    {
+      "id": "arroces",
+      "name": "Paellas, arroces y fideos",
+      "source": "general",
+      "note": "Mínimo 2 personas. Precios por persona.",
+      "items": [
+        {
+          "name": "Paella de mariscos",
+          "price": 20.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        },
+        {
+          "name": "Paella de mariscos del señorito",
+          "price": 20.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        },
+        {
+          "name": "Paella mixta",
+          "price": 20.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        },
+        {
+          "name": "Paella de arroz negro con choco",
+          "price": 21.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        },
+        {
+          "name": "Paella de ventresca de atún, habitas y ajetes tiernos",
+          "price": 26.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        },
+        {
+          "name": "Paella de pescado salvaje",
+          "price": 28.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        },
+        {
+          "name": "Paella de presa ibérica con flor de alcachofa y foie",
+          "price": 27.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        },
+        {
+          "name": "Arroz caldoso a la marinera",
+          "price": 20.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        },
+        {
+          "name": "Arroz caldoso con carabineros",
+          "price": 32.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        },
+        {
+          "name": "Arroz caldoso con bogavante",
+          "price": 32.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        },
+        {
+          "name": "Fideuá de mariscos",
+          "price": 20.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        },
+        {
+          "name": "Fideuá negra con choco",
+          "price": 21.0,
+          "unit": "persona",
+          "note": "",
+          "sourcePage": 6
+        }
+      ]
+    },
+    {
+      "id": "mariscos",
+      "name": "Mariscos",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Coquinas al aceite de oliva",
+          "price": 27.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Almejas salteadas",
+          "price": 19.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Mejillones al vapor o a la marinera",
+          "price": 17.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Conchas finas",
+          "price": 5.8,
+          "unit": "",
+          "note": "Unidad",
+          "sourcePage": 7
+        },
+        {
+          "name": "Bolos",
+          "price": 4.5,
+          "unit": "",
+          "note": "Unidad",
+          "sourcePage": 7
+        },
+        {
+          "name": "Ostra francesa",
+          "price": 5.5,
+          "unit": "",
+          "note": "Unidad",
+          "sourcePage": 7
+        },
+        {
+          "name": "Navajas gallegas",
+          "price": 4.0,
+          "unit": "",
+          "note": "Unidad",
+          "sourcePage": 7
+        },
+        {
+          "name": "Zamburiña",
+          "price": 4.0,
+          "unit": "",
+          "note": "Unidad",
+          "sourcePage": 7
+        },
+        {
+          "name": "Cigalas",
+          "price": 19.0,
+          "unit": "",
+          "note": "100 g",
+          "sourcePage": 7
+        },
+        {
+          "name": "Carabineros",
+          "price": 23.0,
+          "unit": "",
+          "note": "100 g",
+          "sourcePage": 7
+        },
+        {
+          "name": "Bogavantes",
+          "price": 16.0,
+          "unit": "",
+          "note": "100 g",
+          "sourcePage": 7
+        },
+        {
+          "name": "Langosta salvaje",
+          "price": 18.0,
+          "unit": "",
+          "note": "100 g",
+          "sourcePage": 7
+        },
+        {
+          "name": "Gambas de Garrucha",
+          "price": 21.0,
+          "unit": "",
+          "note": "100 g",
+          "sourcePage": 7
+        },
+        {
+          "name": "Buey de mar",
+          "price": 6.5,
+          "unit": "",
+          "note": "100 g",
+          "sourcePage": 7
+        },
+        {
+          "name": "Gambas a la plancha, cocidas o al ajillo",
+          "price": 35.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Langostinos al Pil-Pil",
+          "price": 17.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Vieira gratinada o al Pil-Pil",
+          "price": 15.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Zarzuela de mariscos",
+          "price": 50.0,
+          "unit": "",
+          "note": "Precio por persona. Mínimo 2 personas",
+          "sourcePage": 7
+        },
+        {
+          "name": "Parrillada de mariscos",
+          "price": 50.0,
+          "unit": "",
+          "note": "Precio por persona. Mínimo 2 personas",
+          "sourcePage": 7
+        },
+        {
+          "name": "Parrillada especial de mariscos",
+          "price": 65.0,
+          "unit": "",
+          "note": "Precio por persona. Mínimo 2 personas",
+          "sourcePage": 7
+        }
+      ]
+    },
+    {
+      "id": "carnes",
+      "name": "Carnes",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Solomillo de ternera a la parrilla",
+          "price": 32.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        },
+        {
+          "name": "Solomillo de ternera al Strogonoff",
+          "price": 32.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        },
+        {
+          "name": "Solomillo de ternera con medallón de foie y salsa de setas",
+          "price": 37.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        },
+        {
+          "name": "Entrecot de ternera a la parrilla",
+          "price": 29.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        },
+        {
+          "name": "Entrecot de lomo alto de Angus",
+          "price": 37.0,
+          "unit": "",
+          "note": "300 g",
+          "sourcePage": 8
+        },
+        {
+          "name": "Entrecot de lomo alto de Angus",
+          "price": 62.0,
+          "unit": "",
+          "note": "500 g",
+          "sourcePage": 8
+        },
+        {
+          "name": "Presa ibérica “Joselito” a la parrilla",
+          "price": 28.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        },
+        {
+          "name": "Chuletitas de cordero lechal a la parrilla",
+          "price": 29.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        },
+        {
+          "name": "Paletilla de cordero lechal",
+          "price": 32.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        },
+        {
+          "name": "Hamburguesa de vaca madura y entraña",
+          "price": 22.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        },
+        {
+          "name": "Escalope de pollo",
+          "price": 19.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        }
+      ]
+    },
+    {
+      "id": "pan",
+      "name": "Pan y mantequilla",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Pan y A.O.V.E.",
+          "price": 2.3,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Mantequilla",
+          "price": 1.2,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        }
+      ]
+    },
+    {
+      "id": "guarniciones",
+      "name": "Guarniciones extras",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Patatas fritas",
+          "price": 4.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Patatas panaderas al horno",
+          "price": 4.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Verduras salteadas",
+          "price": 4.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Ensalada de lechugas frescas",
+          "price": 4.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Puré de patatas al A.O.V.E.",
+          "price": 4.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Arroz salteado",
+          "price": 4.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        },
+        {
+          "name": "Patatas cocidas",
+          "price": 4.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 4
+        }
+      ]
+    },
+    {
+      "id": "salsas",
+      "name": "Salsas",
+      "source": "general",
+      "note": "",
+      "items": [
+        {
+          "name": "Salsa a la pimienta",
+          "price": 3.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        },
+        {
+          "name": "Salsa de setas",
+          "price": 3.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        },
+        {
+          "name": "Salsa de roquefort",
+          "price": 3.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        },
+        {
+          "name": "Salsa chimichurri",
+          "price": 3.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 8
+        }
+      ]
+    },
+    {
+      "id": "postres",
+      "name": "Postres artesanos",
+      "source": "postres",
+      "note": "",
+      "items": [
+        {
+          "name": "Tarta de queso",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Coulant de chocolate con helado de vainilla",
+          "price": 9.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Tiramisú",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Tarta de tres chocolates",
+          "price": 9.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Tarta de zanahoria",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Mousse de pistachos",
+          "price": 9.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Tartaleta de manzana con helado de vainilla",
+          "price": 9.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Crema catalana",
+          "price": 8.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Tocino de cielo",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Arroz con leche",
+          "price": 8.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Sorbete de limón",
+          "price": 8.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Copa variada de helado artesano",
+          "price": 9.0,
+          "unit": "",
+          "note": "Tres bolas a elegir: chocolate, fresa o vainilla",
+          "sourcePage": 1
+        }
+      ]
+    },
+    {
+      "id": "fruta",
+      "name": "Fruta natural",
+      "source": "postres",
+      "note": "",
+      "items": [
+        {
+          "name": "Melón",
+          "price": 7.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Piña",
+          "price": 7.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Sandía",
+          "price": 7.5,
+          "unit": "",
+          "note": "En temporada",
+          "sourcePage": 1
+        },
+        {
+          "name": "Fresas con nata",
+          "price": 8.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Fresas con zumo natural de naranjas",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        }
+      ]
+    },
+    {
+      "id": "cocteles",
+      "name": "Cócteles internacionales",
+      "source": "cocteles",
+      "note": "",
+      "items": [
+        {
+          "name": "Aperol Spritz",
+          "price": 9.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Mojito",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Piña Colada",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Daiquiri",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Caipiriña",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Bloody Mary",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Expresso Martini",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Sex on the beach",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Tequila Sunrise",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Dry Martini",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Negroni",
+          "price": 11.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Disaronno Sour",
+          "price": 11.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Whisky Sour",
+          "price": 11.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Margarita",
+          "price": 11.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Moscow Mule",
+          "price": 12.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Cosmopolitan",
+          "price": 12.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Porn Star Martini",
+          "price": 12.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        },
+        {
+          "name": "Long Island Iced Tea",
+          "price": 13.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 1
+        }
+      ]
+    },
+    {
+      "id": "autor",
+      "name": "Cócteles de autor",
+      "source": "cocteles",
+      "note": "",
+      "items": [
+        {
+          "name": "Bruma del Caribe",
+          "price": 14.0,
+          "unit": "",
+          "note": "Ron Barceló Imperial, plátano, coco, fruta de la pasión y toque de granadina",
+          "sourcePage": 1
+        },
+        {
+          "name": "Fresa colada",
+          "price": 14.0,
+          "unit": "",
+          "note": "Ginebra Puerto de Indias, Aperol, zumo de limón, Angostura, fresas naturales",
+          "sourcePage": 1
+        },
+        {
+          "name": "Agua Marina",
+          "price": 15.0,
+          "unit": "",
+          "note": "Vodka Ciroc, ginebra Beefeater 24, zumo de kiwi natural y toque de granadina Rives",
+          "sourcePage": 1
+        },
+        {
+          "name": "Makaley",
+          "price": 15.0,
+          "unit": "",
+          "note": "Vodka Ciroc, tequila José Cuervo, cereza, almendra, Ginger",
+          "sourcePage": 1
+        },
+        {
+          "name": "Sueños de coco",
+          "price": 15.0,
+          "unit": "",
+          "note": "Ron Bacardi Carta Blanca, vodka Ciroc, crema de coco, jarabe y matiz de canela con cristales de caramelo",
+          "sourcePage": 1
+        },
+        {
+          "name": "Manzana Imperial",
+          "price": 15.0,
+          "unit": "",
+          "note": "Ron Barceló Imperial con cobertura de manzana asada con matices de canela",
+          "sourcePage": 1
+        },
+        {
+          "name": "La Carihuela Chica",
+          "price": 15.0,
+          "unit": "",
+          "note": "Vodka Ciroc, Ginebra Shapiro, Blue Tropic, kiwi, mango",
+          "sourcePage": 1
+        }
+      ]
+    },
+    {
+      "id": "sin-alcohol",
+      "name": "Cócteles sin alcohol",
+      "source": "cocteles",
+      "note": "",
+      "items": [
+        {
+          "name": "San Francisco",
+          "price": 9.0,
+          "unit": "",
+          "note": "Zumo de naranja, zumo de piña, zumo de melocotón, granadina",
+          "sourcePage": 1
+        },
+        {
+          "name": "Petit Suisse",
+          "price": 9.0,
+          "unit": "",
+          "note": "Base de fresas y plátanos naturales",
+          "sourcePage": 1
+        },
+        {
+          "name": "Mojito sin alcohol",
+          "price": 10.0,
+          "unit": "",
+          "note": "Ron sin alcohol, lima, azúcar moreno, hierbabuena",
+          "sourcePage": 1
+        },
+        {
+          "name": "Piña colada sin alcohol",
+          "price": 10.0,
+          "unit": "",
+          "note": "Ron sin alcohol, zumo de piña natural, pulpa de coco y piña",
+          "sourcePage": 1
+        }
+      ]
+    },
+    {
+      "id": "sabores",
+      "name": "Cócteles de sabores",
+      "source": "cocteles",
+      "note": "",
+      "items": [
+        {
+          "name": "Mojito Sabores",
+          "price": 11.0,
+          "unit": "",
+          "note": "Fresa, kiwi, mango o plátano. Ron Brugal, zumo de lima natural, azúcar moreno, soda, hierbabuena",
+          "sourcePage": 1
+        },
+        {
+          "name": "Daiquiri Sabores",
+          "price": 11.0,
+          "unit": "",
+          "note": "Fresa, kiwi, mango o plátano. Ron Bacardi, zumo de lima natural, azúcar y fruta natural",
+          "sourcePage": 1
+        },
+        {
+          "name": "Caipiriña Sabores",
+          "price": 11.0,
+          "unit": "",
+          "note": "Fresa, kiwi, mango o plátano. Cachaça Velho Barreiro, zumo de lima natural, azúcar",
+          "sourcePage": 1
+        }
+      ]
+    },
+    {
+      "id": "tintos-rioja-crianza",
+      "name": "Tintos · Rioja Crianza",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "22 Pies (vino de la casa)",
+          "price": 19.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo; copa 4 €",
+          "sourcePage": 1
+        },
+        {
+          "name": "Marqués de Cáceres",
+          "price": 19.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Garnacha, Graciano; 0,37 l 11,50 €",
+          "sourcePage": 1
+        },
+        {
+          "name": "Ramón Bilbao",
+          "price": 20.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 1
+        },
+        {
+          "name": "Campillo",
+          "price": 22.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 1
+        },
+        {
+          "name": "Izadi",
+          "price": 22.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 1
+        },
+        {
+          "name": "Luis Cañas",
+          "price": 24.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Garnacha",
+          "sourcePage": 1
+        },
+        {
+          "name": "CM Matarromera",
+          "price": 30.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 1
+        },
+        {
+          "name": "Muga",
+          "price": 33.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Garnacha, Graciano, Mazuelo; 0,37 l 20 €",
+          "sourcePage": 1
+        },
+        {
+          "name": "Macan Cosecha",
+          "price": 120.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 1
+        }
+      ]
+    },
+    {
+      "id": "tintos-rioja-reserva",
+      "name": "Tintos · Rioja Reservas y Grandes Reservas",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Barón de Ley",
+          "price": 25.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Graciano, Maturana",
+          "sourcePage": 1
+        },
+        {
+          "name": "Marqués de Cáceres",
+          "price": 27.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Garnacha, Graciano",
+          "sourcePage": 1
+        },
+        {
+          "name": "Ramón Bilbao",
+          "price": 29.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Mazuelo, Graciano",
+          "sourcePage": 1
+        },
+        {
+          "name": "Campillo",
+          "price": 31.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 1
+        },
+        {
+          "name": "Marqués de Riscal",
+          "price": 35.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Graciano",
+          "sourcePage": 1
+        },
+        {
+          "name": "Luis Cañas Selección Familiar",
+          "price": 42.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Cabernet Sauvignon",
+          "sourcePage": 1
+        },
+        {
+          "name": "Marqués de Murrieta",
+          "price": 45.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Graciano, Mazuelo, Garnacha",
+          "sourcePage": 1
+        },
+        {
+          "name": "Viña Ardanza",
+          "price": 48.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Garnacha; 0,37 l 26 €",
+          "sourcePage": 1
+        },
+        {
+          "name": "Muga Selección",
+          "price": 58.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Graciano, Mazuelo, Garnacha",
+          "sourcePage": 1
+        },
+        {
+          "name": "Viña Tondonia",
+          "price": 65.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Graciano, Mazuelo, Garnacha",
+          "sourcePage": 1
+        },
+        {
+          "name": "Gaudium",
+          "price": 68.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Graciano",
+          "sourcePage": 1
+        },
+        {
+          "name": "200 Monges",
+          "price": 72.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Graciano, Garnacha",
+          "sourcePage": 1
+        },
+        {
+          "name": "Roda I",
+          "price": 85.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Graciano",
+          "sourcePage": 1
+        },
+        {
+          "name": "La Rioja Alta Gran Reserva 904",
+          "price": 125.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Graciano",
+          "sourcePage": 1
+        },
+        {
+          "name": "Torre de Muga",
+          "price": 125.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Graciano, Mazuelo",
+          "sourcePage": 1
+        }
+      ]
+    },
+    {
+      "id": "ribera-roble",
+      "name": "Tintos · Ribera del Duero Roble",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Melior de Matarromera (vino de la casa)",
+          "price": 19.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo; copa 4 €",
+          "sourcePage": 2
+        },
+        {
+          "name": "Protos",
+          "price": 22.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Finca Resalso",
+          "price": 24.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Cantovera (9 meses)",
+          "price": 26.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "id": "ribera-reserva",
+      "name": "Tintos · Ribera del Duero Crianza y Reserva",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Portia Crianza",
+          "price": 28.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Protos Crianza",
+          "price": 32.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Nabal Crianza",
+          "price": 33.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Cepa 21",
+          "price": 34.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Emilio Moro",
+          "price": 37.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Pesquera Crianza",
+          "price": 37.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Matarromera Crianza",
+          "price": 37.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo; 0,37 l 23,50 €",
+          "sourcePage": 2
+        },
+        {
+          "name": "Pago de Anguix",
+          "price": 38.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Arzuaga",
+          "price": 38.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Cabernet Sauvignon",
+          "sourcePage": 2
+        },
+        {
+          "name": "Dehesa de los Canónigos",
+          "price": 39.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Cabernet Sauvignon, Albillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Carmelo Rodero",
+          "price": 42.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Cabernet Sauvignon",
+          "sourcePage": 2
+        },
+        {
+          "name": "Pago de los Capellanes",
+          "price": 45.5,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Bosque de Matasnos",
+          "price": 56.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Merlot, Malbec",
+          "sourcePage": 2
+        },
+        {
+          "name": "Tomás Postigo 3º Año",
+          "price": 63.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Cabernet Sauvignon, Merlot, Malbec",
+          "sourcePage": 2
+        },
+        {
+          "name": "Malleolus",
+          "price": 65.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Valduero Una Cepa",
+          "price": 65.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Pago de Carraovejas",
+          "price": 67.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Cabernet Sauvignon, Merlot",
+          "sourcePage": 2
+        },
+        {
+          "name": "Hacienda Monasterio",
+          "price": 70.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Cabernet Sauvignon, Merlot, Malbec",
+          "sourcePage": 2
+        },
+        {
+          "name": "PSI Pingus",
+          "price": 75.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Garnacha",
+          "sourcePage": 2
+        },
+        {
+          "name": "Alion Reserva",
+          "price": 130.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Vega Sicilia Valbuena 5º Año",
+          "price": 240.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Merlot",
+          "sourcePage": 2
+        },
+        {
+          "name": "Flor de Pingus",
+          "price": 250.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        },
+        {
+          "name": "Vega Sicilia Único",
+          "price": 525.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo, Cabernet Sauvignon",
+          "sourcePage": 2
+        },
+        {
+          "name": "Pingus",
+          "price": 1600.0,
+          "unit": "0,75 l",
+          "note": "Tempranillo",
+          "sourcePage": 2
+        }
+      ]
+    },
+    {
+      "id": "tintos-otros",
+      "name": "Tintos · Otras regiones",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Abadía Retuerta Selección Especial",
+          "price": 48.0,
+          "unit": "0,75 l",
+          "note": "Castilla y León. Tempranillo, Syrah, Cabernet Sauvignon, Merlot",
+          "sourcePage": 3
+        },
+        {
+          "name": "Mauro",
+          "price": 65.0,
+          "unit": "0,75 l",
+          "note": "Castilla y León. Tempranillo, Syrah, Cabernet Sauvignon",
+          "sourcePage": 3
+        },
+        {
+          "name": "Descalzos Viejos",
+          "price": 23.0,
+          "unit": "0,75 l",
+          "note": "Ronda. Garnacha, Syrah, Merlot",
+          "sourcePage": 3
+        },
+        {
+          "name": "ARX Tesalia",
+          "price": 38.0,
+          "unit": "0,75 l",
+          "note": "Cádiz. Syrah, Tintilla de Rota, Petit Verdot",
+          "sourcePage": 3
+        },
+        {
+          "name": "Habla del Silencio",
+          "price": 25.0,
+          "unit": "0,75 l",
+          "note": "Ribera del Guadiana. Syrah, Cabernet Sauvignon, Tempranillo, Cabernet Franc",
+          "sourcePage": 3
+        },
+        {
+          "name": "Pintia",
+          "price": 100.0,
+          "unit": "0,75 l",
+          "note": "Toro. Tinta de Toro",
+          "sourcePage": 3
+        },
+        {
+          "name": "Pétalos del Bierzo",
+          "price": 32.5,
+          "unit": "0,75 l",
+          "note": "Bierzo. Mencía",
+          "sourcePage": 3
+        },
+        {
+          "name": "Mouton Cadet Rouge Ecológico",
+          "price": 28.5,
+          "unit": "0,75 l",
+          "note": "Burdeos, Francia. Merlot, Cabernet Sauvignon, Cabernet Franc",
+          "sourcePage": 3
+        },
+        {
+          "name": "Beaune du Chateau 1er. Cru",
+          "price": 95.0,
+          "unit": "0,75 l",
+          "note": "Borgoña, Francia. Pinot Noir",
+          "sourcePage": 3
+        }
+      ]
+    },
+    {
+      "id": "blancos-rueda",
+      "name": "Blancos · Rueda",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Melior de Matarromera (vino de la casa)",
+          "price": 18.0,
+          "unit": "0,75 l",
+          "note": "Verdejo; copa 3,70 €",
+          "sourcePage": 4
+        },
+        {
+          "name": "Javier Sanz Semidulce",
+          "price": 19.5,
+          "unit": "0,75 l",
+          "note": "Verdejo; copa 4,10 €",
+          "sourcePage": 4
+        },
+        {
+          "name": "Protos",
+          "price": 19.5,
+          "unit": "0,75 l",
+          "note": "Verdejo",
+          "sourcePage": 4
+        },
+        {
+          "name": "Yllera 5.5",
+          "price": 20.0,
+          "unit": "0,75 l",
+          "note": "Verdejo frizzante",
+          "sourcePage": 4
+        },
+        {
+          "name": "Ramón Bilbao",
+          "price": 20.0,
+          "unit": "0,75 l",
+          "note": "Verdejo",
+          "sourcePage": 4
+        },
+        {
+          "name": "Melior de Matarromera",
+          "price": 20.0,
+          "unit": "0,75 l",
+          "note": "Sauvignon Blanc",
+          "sourcePage": 4
+        },
+        {
+          "name": "Javier Sanz",
+          "price": 23.0,
+          "unit": "0,75 l",
+          "note": "Sauvignon Blanc; copa 5,20 €",
+          "sourcePage": 4
+        },
+        {
+          "name": "Marqués de Riscal Lías Finas",
+          "price": 24.0,
+          "unit": "0,75 l",
+          "note": "Verdejo",
+          "sourcePage": 4
+        },
+        {
+          "name": "José Pariente",
+          "price": 26.0,
+          "unit": "0,75 l",
+          "note": "Verdejo",
+          "sourcePage": 4
+        },
+        {
+          "name": "Matarromera (fermentado en barrica)",
+          "price": 38.5,
+          "unit": "0,75 l",
+          "note": "Verdejo",
+          "sourcePage": 4
+        },
+        {
+          "name": "Ossian",
+          "price": 65.0,
+          "unit": "0,75 l",
+          "note": "Verdejo",
+          "sourcePage": 4
+        },
+        {
+          "name": "Belondrade y Lurton",
+          "price": 78.0,
+          "unit": "0,75 l",
+          "note": "Verdejo",
+          "sourcePage": 4
+        }
+      ]
+    },
+    {
+      "id": "blancos-rioja",
+      "name": "Blancos · Rioja",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Marqués de Cáceres",
+          "price": 18.5,
+          "unit": "0,75 l",
+          "note": "Viura; copa 3,80 €; 0,37 l 11,50 €",
+          "sourcePage": 4
+        },
+        {
+          "name": "Anahí semidulce",
+          "price": 21.5,
+          "unit": "0,75 l",
+          "note": "Malvasía, Tempranillo blanco, Sauvignon Blanc",
+          "sourcePage": 4
+        },
+        {
+          "name": "Campillo (fermentado en barrica)",
+          "price": 23.5,
+          "unit": "0,75 l",
+          "note": "Viura, Chardonnay",
+          "sourcePage": 4
+        },
+        {
+          "name": "Muga",
+          "price": 26.0,
+          "unit": "0,75 l",
+          "note": "Viura, Garnacha, Malvasía",
+          "sourcePage": 4
+        }
+      ]
+    },
+    {
+      "id": "blancos-penedes",
+      "name": "Blancos · Penedés y vino submarino",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Viña Sol Ecológico",
+          "price": 19.5,
+          "unit": "0,75 l",
+          "note": "Parellada, Garnacha; 0,37 l 12 €",
+          "sourcePage": 4
+        },
+        {
+          "name": "Viña Esmeralda",
+          "price": 24.0,
+          "unit": "0,75 l",
+          "note": "Gewürztraminer, Moscatel",
+          "sourcePage": 4
+        },
+        {
+          "name": "Gran Viña Sol",
+          "price": 28.0,
+          "unit": "0,75 l",
+          "note": "Chardonnay",
+          "sourcePage": 4
+        },
+        {
+          "name": "Waltraud Torres",
+          "price": 38.0,
+          "unit": "0,75 l",
+          "note": "Riesling",
+          "sourcePage": 4
+        },
+        {
+          "name": "Fransola Torres",
+          "price": 48.0,
+          "unit": "0,75 l",
+          "note": "Sauvignon Blanc",
+          "sourcePage": 4
+        },
+        {
+          "name": "Milmanda",
+          "price": 95.0,
+          "unit": "0,75 l",
+          "note": "Chardonnay",
+          "sourcePage": 4
+        },
+        {
+          "name": "Habla del Mar (vino de aguja)",
+          "price": 32.0,
+          "unit": "0,75 l",
+          "note": "Mezcla atlántica de viñedos costeros",
+          "sourcePage": 4
+        }
+      ]
+    },
+    {
+      "id": "blancos-rias",
+      "name": "Blancos · Rías Baixas",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Alba Martín (vino de la casa)",
+          "price": 23.0,
+          "unit": "0,75 l",
+          "note": "Albariño; copa 4,80 €",
+          "sourcePage": 5
+        },
+        {
+          "name": "Marieta 0% (sin alcohol)",
+          "price": 23.0,
+          "unit": "0,75 l",
+          "note": "Albariño",
+          "sourcePage": 5
+        },
+        {
+          "name": "Martín Codax",
+          "price": 26.0,
+          "unit": "0,75 l",
+          "note": "Albariño; 1,5 l 50 €",
+          "sourcePage": 5
+        },
+        {
+          "name": "Viña Caeira",
+          "price": 27.0,
+          "unit": "0,75 l",
+          "note": "Albariño",
+          "sourcePage": 5
+        },
+        {
+          "name": "Terras Gauda",
+          "price": 31.0,
+          "unit": "0,75 l",
+          "note": "Albariño",
+          "sourcePage": 5
+        },
+        {
+          "name": "Mar de Frades",
+          "price": 33.0,
+          "unit": "0,75 l",
+          "note": "Albariño; 1,5 l 67 €",
+          "sourcePage": 5
+        },
+        {
+          "name": "Fefiñanes",
+          "price": 34.0,
+          "unit": "0,75 l",
+          "note": "Albariño",
+          "sourcePage": 5
+        },
+        {
+          "name": "Fefiñanes III Año",
+          "price": 67.0,
+          "unit": "0,75 l",
+          "note": "Albariño",
+          "sourcePage": 5
+        }
+      ]
+    },
+    {
+      "id": "blancos-otros",
+      "name": "Blancos · Otras regiones",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Casar de Vide",
+          "price": 24.0,
+          "unit": "0,75 l",
+          "note": "Ribeiro. Treixadura, Albariño, Godello, Torrontés",
+          "sourcePage": 5
+        },
+        {
+          "name": "El Paraguas",
+          "price": 42.0,
+          "unit": "0,75 l",
+          "note": "Ribeiro. Treixadura, Albariño, Godello",
+          "sourcePage": 5
+        },
+        {
+          "name": "Fai un sol de carallo",
+          "price": 150.0,
+          "unit": "0,75 l",
+          "note": "Ribeiro. Treixadura, Albariño, Godello",
+          "sourcePage": 5
+        },
+        {
+          "name": "Joaquín Rebolledo",
+          "price": 24.0,
+          "unit": "0,75 l",
+          "note": "Valdeorras. Godello",
+          "sourcePage": 5
+        },
+        {
+          "name": "O Luar Do Sil",
+          "price": 29.0,
+          "unit": "0,75 l",
+          "note": "Valdeorras. Godello",
+          "sourcePage": 5
+        },
+        {
+          "name": "Louro",
+          "price": 38.5,
+          "unit": "0,75 l",
+          "note": "Valdeorras. Godello",
+          "sourcePage": 5
+        },
+        {
+          "name": "As Sortes",
+          "price": 95.0,
+          "unit": "0,75 l",
+          "note": "Valdeorras. Godello",
+          "sourcePage": 5
+        },
+        {
+          "name": "Mara",
+          "price": 23.0,
+          "unit": "0,75 l",
+          "note": "Monterrei. Godello; copa 5 €",
+          "sourcePage": 5
+        },
+        {
+          "name": "El Muelle de Olaso",
+          "price": 26.5,
+          "unit": "0,75 l",
+          "note": "Cádiz. Palomino",
+          "sourcePage": 5
+        },
+        {
+          "name": "Cloe",
+          "price": 26.5,
+          "unit": "0,75 l",
+          "note": "Ronda. Chardonnay",
+          "sourcePage": 5
+        },
+        {
+          "name": "Botani",
+          "price": 30.0,
+          "unit": "0,75 l",
+          "note": "Málaga. Moscatel de Alejandría",
+          "sourcePage": 5
+        },
+        {
+          "name": "Chablis Fevre",
+          "price": 36.0,
+          "unit": "0,75 l",
+          "note": "Chablis, Francia. Chardonnay",
+          "sourcePage": 5
+        },
+        {
+          "name": "Hans Greyl",
+          "price": 29.0,
+          "unit": "0,75 l",
+          "note": "Marlborough, Nueva Zelanda. Sauvignon Blanc",
+          "sourcePage": 5
+        },
+        {
+          "name": "Cloudy Bay",
+          "price": 60.0,
+          "unit": "0,75 l",
+          "note": "Marlborough, Nueva Zelanda. Sauvignon Blanc",
+          "sourcePage": 5
+        }
+      ]
+    },
+    {
+      "id": "rosados",
+      "name": "Rosados",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Cuatro Pasos (vino de la casa)",
+          "price": 19.0,
+          "unit": "0,75 l",
+          "note": "Bierzo. Mencía; copa 3,90 €",
+          "sourcePage": 6
+        },
+        {
+          "name": "Marqués de Cáceres",
+          "price": 18.5,
+          "unit": "0,75 l",
+          "note": "Rioja. Tempranillo, Garnacha; 0,37 l 11 €",
+          "sourcePage": 6
+        },
+        {
+          "name": "Ramón Bilbao",
+          "price": 20.0,
+          "unit": "0,75 l",
+          "note": "Rioja. Garnacha",
+          "sourcePage": 6
+        },
+        {
+          "name": "Marqués de Riscal",
+          "price": 22.0,
+          "unit": "0,75 l",
+          "note": "Rioja. Tempranillo, Garnacha",
+          "sourcePage": 6
+        },
+        {
+          "name": "Muga",
+          "price": 24.0,
+          "unit": "0,75 l",
+          "note": "Rioja. Garnacha, Viura",
+          "sourcePage": 6
+        },
+        {
+          "name": "Cloe Rosé",
+          "price": 26.5,
+          "unit": "0,75 l",
+          "note": "Ronda. Garnacha",
+          "sourcePage": 6
+        },
+        {
+          "name": "Quelias",
+          "price": 26.0,
+          "unit": "0,75 l",
+          "note": "Cigales. Albillo, Garnacha, Tempranillo, Verdejo",
+          "sourcePage": 6
+        },
+        {
+          "name": "Chivite Las Fincas",
+          "price": 25.0,
+          "unit": "0,75 l",
+          "note": "Navarra. Tempranillo, Garnacha",
+          "sourcePage": 6
+        },
+        {
+          "name": "Unzu",
+          "price": 27.0,
+          "unit": "0,75 l",
+          "note": "Navarra. Garnacha",
+          "sourcePage": 6
+        },
+        {
+          "name": "Chivite Colección 125",
+          "price": 52.0,
+          "unit": "0,75 l",
+          "note": "Navarra. Tempranillo, Garnacha",
+          "sourcePage": 6
+        },
+        {
+          "name": "Le Vieille Ferme",
+          "price": 23.0,
+          "unit": "0,75 l",
+          "note": "Luberon, Francia. Cinsault, Garnacha, Syrah",
+          "sourcePage": 6
+        },
+        {
+          "name": "Miraval",
+          "price": 43.0,
+          "unit": "0,75 l",
+          "note": "Côtes de Provence, Francia. Cinsault, Garnacha, Syrah",
+          "sourcePage": 6
+        }
+      ]
+    },
+    {
+      "id": "cavas",
+      "name": "Cavas",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Juve & Camps Essential Púrpura Brut (cava de la casa)",
+          "price": 26.0,
+          "unit": "0,75 l",
+          "note": "Copa 5,50 €",
+          "sourcePage": 7
+        },
+        {
+          "name": "Juve & Camps Essential Rosé",
+          "price": 28.5,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Juve & Camps Reserva de la Familia Brut Nature",
+          "price": 34.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Juve & Camps Milesimé Brut Reserva",
+          "price": 43.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Juve & Camps Milesimé Rosé",
+          "price": 62.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Gran Juve & Camps Brut Gran Reserva",
+          "price": 50.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Agustí Torelló Brut Reserva",
+          "price": 29.5,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        }
+      ]
+    },
+    {
+      "id": "champagnes",
+      "name": "Champagnes",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Nicolás Feuillate Brut Reserva",
+          "price": 59.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Moët Chandon",
+          "price": 75.0,
+          "unit": "0,75 l",
+          "note": "0,20 l 32 €; 0,37 l 50 €; 1,50 l 195 €",
+          "sourcePage": 7
+        },
+        {
+          "name": "Moët Chandon Rosé",
+          "price": 95.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Taittinger Brut Reserva",
+          "price": 89.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Louis Roderer Collection",
+          "price": 98.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Louis Roderer Cristal Brut",
+          "price": 450.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Veuve Clicquot",
+          "price": 95.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Bollinger Brut",
+          "price": 100.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Billecart Salmón Brut Rosé",
+          "price": 150.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Laurent Perrier Cuvée Rosé",
+          "price": 140.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        },
+        {
+          "name": "Dom Perignon",
+          "price": 380.0,
+          "unit": "0,75 l",
+          "note": "",
+          "sourcePage": 7
+        }
+      ]
+    },
+    {
+      "id": "fortificados",
+      "name": "Fortificados en copa",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Tío Pepe",
+          "price": 3.8,
+          "unit": "copa",
+          "note": "Fino. Bodega González Byass",
+          "sourcePage": 8
+        },
+        {
+          "name": "Papirusa",
+          "price": 4.5,
+          "unit": "copa",
+          "note": "Manzanilla. Bodegas Lustau",
+          "sourcePage": 8
+        },
+        {
+          "name": "Don Nuño",
+          "price": 7.0,
+          "unit": "copa",
+          "note": "Oloroso. Bodegas Lustau",
+          "sourcePage": 8
+        },
+        {
+          "name": "Viña AB",
+          "price": 7.0,
+          "unit": "copa",
+          "note": "Amontillado. Bodegas González Byass",
+          "sourcePage": 8
+        },
+        {
+          "name": "Península",
+          "price": 7.0,
+          "unit": "copa",
+          "note": "Palo cortado. Bodegas Lustau",
+          "sourcePage": 8
+        },
+        {
+          "name": "Ruby",
+          "price": 4.5,
+          "unit": "copa",
+          "note": "Oporto. Bodegas Osborne",
+          "sourcePage": 8
+        },
+        {
+          "name": "Lustau",
+          "price": 6.5,
+          "unit": "copa",
+          "note": "Vermouth. Bodegas Lustau",
+          "sourcePage": 8
+        },
+        {
+          "name": "Solera 1847",
+          "price": 3.9,
+          "unit": "copa",
+          "note": "Cream. Bodegas González Byass",
+          "sourcePage": 8
+        },
+        {
+          "name": "Canasta",
+          "price": 3.9,
+          "unit": "copa",
+          "note": "Cream",
+          "sourcePage": 8
+        },
+        {
+          "name": "Málaga Virgen",
+          "price": 4.0,
+          "unit": "copa",
+          "note": "Pedro Ximénez. Bodegas Málaga Virgen",
+          "sourcePage": 8
+        },
+        {
+          "name": "Néctar",
+          "price": 4.5,
+          "unit": "copa",
+          "note": "Pedro Ximénez. Bodegas González Byass",
+          "sourcePage": 8
+        },
+        {
+          "name": "PX 1927",
+          "price": 6.0,
+          "unit": "copa",
+          "note": "Pedro Ximénez. Bodegas Alvear",
+          "sourcePage": 8
+        },
+        {
+          "name": "Don PX",
+          "price": 7.0,
+          "unit": "copa",
+          "note": "Pedro Ximénez. Bodegas Toro Albalá",
+          "sourcePage": 8
+        },
+        {
+          "name": "San Emilio",
+          "price": 7.5,
+          "unit": "copa",
+          "note": "Pedro Ximénez. Bodegas Lustau",
+          "sourcePage": 8
+        },
+        {
+          "name": "Jorge Ordóñez Nº 1",
+          "price": 12.0,
+          "unit": "copa",
+          "note": "Moscatel. Bodegas Ordóñez",
+          "sourcePage": 8
+        },
+        {
+          "name": "Jorge Ordóñez Nº 2",
+          "price": 14.0,
+          "unit": "copa",
+          "note": "Moscatel. Bodegas Ordóñez",
+          "sourcePage": 8
+        },
+        {
+          "name": "Oremus 3 Puttonyos",
+          "price": 14.0,
+          "unit": "copa",
+          "note": "Tokaj. Bodegas Vega Sicilia",
+          "sourcePage": 8
+        }
+      ]
+    },
+    {
+      "id": "whisky",
+      "name": "Whisky",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Ballantines",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Bushmill 16 años",
+          "price": 25.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Canadian Club",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Cardhu 12 años",
+          "price": 13.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Chivas Regal 12 años",
+          "price": 12.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Cutty Sark",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "DYC 8 años",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Four Roses",
+          "price": 9.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Glenfiddich 12 años",
+          "price": 13.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Glenfiddich 15 años",
+          "price": 18.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Hibiki",
+          "price": 26.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Jack Daniel’s",
+          "price": 9.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Jameson",
+          "price": 9.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "JB",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "JB 15 años",
+          "price": 12.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Jim Beam",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Johnnie Walker Red Label",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Johnnie Walker Etiq. Negra",
+          "price": 10.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Johnnie Walker Gold Label",
+          "price": 15.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Knockando",
+          "price": 12.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Macallan 12 años",
+          "price": 20.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Macallan 15 años double cask",
+          "price": 35.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Maker’s Mark",
+          "price": 12.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Southern Comfort",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "The Glenlivet 12 años",
+          "price": 13.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "The Glenrothes 12 años",
+          "price": 15.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "White Label",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        }
+      ]
+    },
+    {
+      "id": "ron",
+      "name": "Ron",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Bacardi",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Barceló Añejo",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Barceló Imperial",
+          "price": 11.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Brugal",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Brugal 1888",
+          "price": 12.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Cacique",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Cacique 500",
+          "price": 11.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Habana 5 años",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Habana 7 años",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Legendario",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Malibú Piña",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Matusalén 15 años",
+          "price": 12.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Santa Teresa Añejo",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Santa Teresa 1796",
+          "price": 15.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Zacapa 23",
+          "price": 16.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Xacapa XO",
+          "price": 27.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        }
+      ]
+    },
+    {
+      "id": "ginebras",
+      "name": "Ginebras",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Beefeather",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Beefeather 24",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Bombay Sapphire",
+          "price": 9.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Brockmans",
+          "price": 12.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Bulldog",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Citadelle",
+          "price": 10.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "G’Vine",
+          "price": 11.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Gin Mare",
+          "price": 11.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Gordon’s",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Hendricks",
+          "price": 11.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Larios",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Larios 12",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Martin Miller’s",
+          "price": 11.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Monkey 47",
+          "price": 15.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Nordes",
+          "price": 11.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Puerto de Indias",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Roku Gin",
+          "price": 11.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Seagrams",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Tanqueray",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Tanqueray 0’0",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        }
+      ]
+    },
+    {
+      "id": "vodka",
+      "name": "Vodka",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Absolut",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Beluga",
+          "price": 13.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Belvedere",
+          "price": 13.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Ciroc",
+          "price": 11.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Finlandia",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Grey Goose",
+          "price": 13.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Roberto Cavalli",
+          "price": 13.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Smirnoff",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        }
+      ]
+    },
+    {
+      "id": "brandy",
+      "name": "Coñac y brandy",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Carlos I",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Carlos III",
+          "price": 6.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Calvados",
+          "price": 9.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Courvoiser",
+          "price": 15.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Hennesy",
+          "price": 14.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Lepanto 12 años",
+          "price": 10.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Larios 1866",
+          "price": 18.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Luís Felipe",
+          "price": 26.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Magno",
+          "price": 6.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Martell",
+          "price": 12.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Remy Martin",
+          "price": 16.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Soberano",
+          "price": 5.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Torres 10",
+          "price": 8.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        },
+        {
+          "name": "Torres V",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 9
+        }
+      ]
+    },
+    {
+      "id": "licores",
+      "name": "Licores",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Amaretto",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Anís Chinchón",
+          "price": 5.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Anís Machaquito",
+          "price": 5.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Baileys",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Baines Oro Pacharán",
+          "price": 7.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Benedictine",
+          "price": 8.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Calisay",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Cointreau",
+          "price": 6.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Drambuie",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "El Cuervo",
+          "price": 7.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Fernet Branca",
+          "price": 7.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Frangélico",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Grand Manier Amarillo",
+          "price": 7.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Gran Manier Rojo",
+          "price": 8.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Grappa",
+          "price": 5.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Hierbas",
+          "price": 5.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Jagermeister",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Kahlúa",
+          "price": 7.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Licor 43",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Limoncello",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Marie Brizard",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Melocotón, Manzana, Mora",
+          "price": 5.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Orujo",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Pacharán",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Tía María",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Triple Seco",
+          "price": 5.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Vodka caramelo",
+          "price": 6.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        }
+      ]
+    },
+    {
+      "id": "aperitivos",
+      "name": "Aperitivos",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Campari",
+          "price": 6.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Campari con zumo de naranja",
+          "price": 8.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Pernod",
+          "price": 6.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Ricard",
+          "price": 6.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        }
+      ]
+    },
+    {
+      "id": "bebidas",
+      "name": "Cervezas y bebidas",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Agua sin gas",
+          "price": 2.8,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Refrescos",
+          "price": 3.1,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Aquarius",
+          "price": 3.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Zumos de naranja natural",
+          "price": 4.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Victoria (caña)",
+          "price": 2.8,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Victoria",
+          "price": 3.3,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Cruzcampo",
+          "price": 3.3,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Estrella Galicia",
+          "price": 3.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Alhambra",
+          "price": 3.9,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Heineken",
+          "price": 3.9,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Tinto de verano",
+          "price": 3.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Copa de tinto Rioja crianza",
+          "price": 4.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Copa de tinto Ribera",
+          "price": 4.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Copa de Verdejo",
+          "price": 3.7,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Copa de blanco seco",
+          "price": 3.8,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Copa de blanco semidulce",
+          "price": 4.1,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Copa de Albariño",
+          "price": 4.8,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Copa de Godello",
+          "price": 5.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Copa de Sauvignon Blanc",
+          "price": 5.2,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Copa de rosado",
+          "price": 3.9,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Copa de Cava",
+          "price": 5.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        }
+      ]
+    },
+    {
+      "id": "jarras",
+      "name": "Jarras",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Pinta de cerveza",
+          "price": 5.6,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Jarra de cerveza",
+          "price": 11.2,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Jarra tinto de verano",
+          "price": 13.8,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Jarra tinto de verano limón",
+          "price": 13.8,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Jarra de sangría",
+          "price": 20.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Jarra de sangría cava",
+          "price": 26.0,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        }
+      ]
+    },
+    {
+      "id": "cafe",
+      "name": "Café e infusiones",
+      "source": "vinos",
+      "note": "",
+      "items": [
+        {
+          "name": "Café solo o con leche",
+          "price": 2.4,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Capuccino",
+          "price": 3.4,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Blanco y negro",
+          "price": 7.5,
+          "unit": "",
+          "note": "Café, helado de vainilla y nata",
+          "sourcePage": 10
+        },
+        {
+          "name": "Irlandés",
+          "price": 9.0,
+          "unit": "",
+          "note": "Whisky, café, nata, azúcar",
+          "sourcePage": 10
+        },
+        {
+          "name": "Calipso",
+          "price": 9.0,
+          "unit": "",
+          "note": "Tía María, café, nata, azúcar",
+          "sourcePage": 10
+        },
+        {
+          "name": "Latte Macchiatto choco negro",
+          "price": 4.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Latte Macchiatto choco blanco",
+          "price": 4.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        },
+        {
+          "name": "Latte Macchiatto choco avellana",
+          "price": 4.5,
+          "unit": "",
+          "note": "",
+          "sourcePage": 10
+        }
+      ]
+    }
+  ]
+}
