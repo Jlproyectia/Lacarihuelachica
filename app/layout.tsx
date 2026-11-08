@@ -11,3 +11,5 @@ export const metadata: Metadata = {title:'La Carihuela Chica | El Mediterráneo,
 export default function RootLayout({children}:Readonly<{children:React.ReactNode}>){return <html lang="es"><body>{children}</body></html>}
 
 import './editorial-collage.css';
+
+import './design-system.css';
