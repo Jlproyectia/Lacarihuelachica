@@ -19,4 +19,12 @@
   .restaurant-shell[class] .site-header .main-nav.is-open{inset:100% 0 auto;width:100%;max-height:calc(100dvh - 130px);overflow-y:auto;margin:0;padding:24px;background:#082c40;color:#fcfbf8;border:0;border-bottom:1px solid #c6a86660}
   .restaurant-shell[class] .site-header .main-nav.is-open a{color:#fcfbf8}
   html{scroll-padding-top:140px}
+  /* Keep the cover clear; reveal persistent actions only after it has passed. */
+  .restaurant-shell.page-home{padding-top:0}
+  .restaurant-shell.page-home .edition-manifesto{padding-top:156px}
+  .restaurant-shell.page-home:not(.past-hero) .site-header{position:absolute;min-height:62px;background:transparent;border-bottom:0;padding-top:calc(12px + env(safe-area-inset-top,0px))}
+  .restaurant-shell.page-home:not(.past-hero) .mobile-quick-actions{display:none}
+  .restaurant-shell.page-home.past-hero .mobile-quick-actions{animation:quick-actions-enter .22s ease-out}
+  @keyframes quick-actions-enter{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:translateY(0)}}
+  @media(prefers-reduced-motion:reduce){.restaurant-shell.page-home.past-hero .mobile-quick-actions{animation:none}}
 }
